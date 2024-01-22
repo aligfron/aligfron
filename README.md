@@ -9,8 +9,6 @@
 - I enjoy bringing a static design or idea to life and learning new technologies.
 - Skilled in creating responsive designs, UI Design, HTML Emails, copywriting, and social media marketing.
 <br>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="linkedin.com/in/ali-gufron-a66572222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-gufron" height="30" width="40" /></a>
@@ -38,7 +36,7 @@
 
 </div>
 </div>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aligfron&show_icons=true&locale=en&layout=compact" alt="aligfron" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aligfron&show_icons=true&locale=en" alt="aligfron" /></p>
