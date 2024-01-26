@@ -37,7 +37,5 @@
 </div>
 </div>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aligfron&show_icons=true&locale=en&layout=compact" alt="aligfron" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aligfron&show_icons=true&locale=en" alt="aligfron" /></p>
 
